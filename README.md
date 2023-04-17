@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engabdos&show_icons=true&locale=en" alt="engabdos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&" alt="engabdos" /></p>
+
+![Snake animation](https://github.com/EngAbdoS/EngAbdoS/blob/output/github-contribution-grid-snake.svg)
