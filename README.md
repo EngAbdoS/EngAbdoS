@@ -1,8 +1,7 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://www.linkedin.com/in/abdelrahman-swidan-57bb84235/)
 <h1 align="center">Hi 👋, I'm Abdelrahman swidan</h1>
 <h3 align="center">Software engineer</h3>
-<img align="right" alt="Coding" width="400" src"https://assets8.lottiefiles.com/packages/lf20_8etvTOtK4O.json">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engabdos&label=Profile%20views&color=0e75b6&style=flat" alt="engabdos" /> </p>
+<img align="right" alt="Coding" width="400" src"C:\Users\Swidan\Desktop\New folder (5)\140321-hacker-it.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a> </p>
 
