@@ -1,9 +1,9 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://www.linkedin.com/in/abdelrahman-swidan-57bb84235/)
 <h1 align="center">Hi 👋, I'm Abdelrahman swidan</h1>
-<h3 align="center">Software engineer</h3>
+<h3 align="center">Software engineer ❤️‍🔥</h3>
  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abd0_swidan" target="blank"><img src="https://img.shields.io/twitter/follow/abd0_swidan?logo=twitter&style=for-the-badge" alt="abd0_swidan" /></a> </p>
 
