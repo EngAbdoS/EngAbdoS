@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&" alt="engabdos" /></p>
 
-![Snake animation](https://github.com/EngAbdoS/EngAbdoS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/engabdos/engabdos/blob/output/github-contribution-grid-snake.svg)
