@@ -40,7 +40,7 @@
 <hr>
 
 <p align="left">🔥 Streak Stats</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&theme=algolia" alt="engabdos"  width="600" />&nbsp;</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&theme=algolia" alt="engabdos"  width="600" /></p>
 <p align="left">💻 GitHub Profile Stats</p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdelrahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=engabdos&show_icons=true&count_private=true&theme=algolia" width="600"/></a></p>
