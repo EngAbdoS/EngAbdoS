@@ -38,7 +38,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdelrahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=engabdos&show_icons=true&count_private=true&theme=algolia" width="600"/></a></p>
 ❤️‍🔥 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=engabdos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdelrahman" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=engabdos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdelrahman" height="220" width="600"/>
   <br/>
 
 
