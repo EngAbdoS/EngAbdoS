@@ -33,12 +33,12 @@
 <br/>
 
 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&theme=algolia" alt="engabdos" height="192px" width="450" />&nbsp;</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engabdos&theme=algolia" alt="engabdos"  width="600" />&nbsp;</p>
 💻 GitHub Profile Stats
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdelrahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=engabdos&show_icons=true&count_private=true&theme=algolia" height="192px" width="450"/></a></p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdelrahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=engabdos&show_icons=true&count_private=true&theme=algolia" width="600"/></a></p>
 ❤️‍🔥 Top Languages
- <p <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engabdos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdelrahman" height="192px" width="450"/>></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=engabdos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdelrahman" width="600"/>
   <br/>
 
 
