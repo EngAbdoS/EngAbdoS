@@ -6,7 +6,8 @@
 <h2 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h2>
  </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a>  <img src="https://komarev.com/ghpvc/?username=engabdos&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrahman Swidan" /> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/abd0_swidan" target="blank"><img src="https://img.shields.io/twitter/follow/abd0_swidan?logo=twitter&style=for-the-badge" alt="abd0_swidan" /></a> </p>
 
@@ -18,13 +19,13 @@
 
 - 📫 How to reach me **eng.abdelrahman.swidan@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://www.w3schools.com](https://drive.google.com/file/d/1rKotAWy-H2D5bxpvz8lnh5jGYCjPPF5c/view?usp=sharing](https://drive.google.com/file/d/1rKotAWy-H2D5bxpvz8lnh5jGYCjPPF5c/view?usp=sharing)"><h3>**Resume**</h3></a>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rKotAWy-H2D5bxpvz8lnh5jGYCjPPF5c/view)
 
 - ⚡ Fun fact **Programming is the art of sheer laziness**
 <p align="center"><img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" /></p>
 <hr>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/abd0_swidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd0_swidan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelrahman swidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman swidan" height="30" width="40" /></a>
 <a href="https://fb.com/abdelrahman swidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman swidan" height="30" width="40" /></a>
