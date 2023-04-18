@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman swidan</h1>
 
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://www.linkedin.com/in/abdelrahman-swidan-57bb84235/)
-
+<img align="center" alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
 <hr>
-<h3 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h3>
+<h2 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h2>
  </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos" alt="engabdos" /></a> </p>
