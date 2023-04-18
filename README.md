@@ -2,7 +2,7 @@
 
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://www.linkedin.com/in/abdelrahman-swidan-57bb84235/)
 
-<h1 align="center">Hi 👋, I'm Abdelrahman swidan</h1>
+
 <hr>
 <h3 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h3>
  </p>
