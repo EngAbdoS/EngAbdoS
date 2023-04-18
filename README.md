@@ -49,4 +49,5 @@
 <h1 align="center">Don't forget to follow me 🥵</h1>
 <hr>
 <p align="left">Snake eats my contributions 🙄,<br>he don't know that you will star the whole repository 😏</p>
+
   ![Snake animation](https://github.com/engabdos/engabdos/blob/output/github-contribution-grid-snake.svg)
