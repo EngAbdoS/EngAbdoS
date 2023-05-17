@@ -5,8 +5,12 @@
 <hr>
 <h2 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h2>
  </p>
+ 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=engabdos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabdos&theme=onedark" alt="Abdelrahman Swidan"/>
+ 
+ 
  </p>
 
 
