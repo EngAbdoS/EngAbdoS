@@ -5,9 +5,9 @@
 <hr>
 <h2 align="center">❤️‍🔥 Software engineer ❤️‍🔥</h2>
  </p>
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=engabdos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+ </p>
 
 
 <p align="center"> <a href="https://twitter.com/abd0_swidan" target="blank"><img src="https://img.shields.io/twitter/follow/abd0_swidan?logo=twitter&style=for-the-badge" alt="abd0_swidan" /> </p>
