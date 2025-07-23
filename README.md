@@ -54,6 +54,11 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=engabdos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdelrahman" height="220" width="600"/></p>
 <h1 align="center">Don't forget to follow me 🥵</h1>
 <hr>
-<p align="left">Snake eats my contributions 🙄,<br>he don't know that you will star the whole repository 😏</p>
-
-  ![Snake animation](https://github.com/engabdos/engabdos/blob/output/github-contribution-grid-snake.svg)
+<p align="left">Snake is eating my contributions 🙄,<br>he doesn't know that you will star the whole repository 😏</p>
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engabdos/engabdos/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engabdos/engabdos/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/engabdos/engabdos/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
