@@ -8,7 +8,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Android](https://img.shields.io/badge/Android-05122A?logo=android&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-05122A?logo=android&logoColor=green)&nbsp;
+![C](https://img.shields.io/badge/golang-05122A?style=flat&logo=go&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
