@@ -8,16 +8,16 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Android](https://img.shields.io/badge/Android-05122A?logo=android&logoColor=green)&nbsp;
-![C](https://img.shields.io/badge/golang-05122A?style=flat&logo=go&logoColor=007ACC)&nbsp;
+![GoLang](https://img.shields.io/badge/Golang-05122A?style=flat&logo=go&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
+![Android](https://img.shields.io/badge/Android-05122A?logo=android&logoColor=green)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 <br>
