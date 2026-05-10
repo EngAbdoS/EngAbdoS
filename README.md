@@ -71,17 +71,20 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
-**🗄️ Databases**
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
-
 **⚙️ DevOps & Systems**
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+**🗄️ Databases**
+
+![MSSQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-05122A?logo=mssqlserver-white&logoColor=CC2927)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A.svg?logo=sqlite&logoColor=72BFE9)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=234ea94b)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)&nbsp;
 
 **🔐 Security & Reverse Engineering**
 
